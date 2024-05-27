@@ -42,7 +42,6 @@ The architecture of the WAF is composed of the following components:
 
 - **Programming Language**: Python
 - **Machine Learning Library**: Scikit-learn
-- **Web Framework**: Flask (for the proxy server)
 - **Data Handling**: Pandas
 - **HTTP Handling**: Requests
 - **Logging**: Python's logging module
