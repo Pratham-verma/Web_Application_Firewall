@@ -117,4 +117,6 @@ The Logistic Regression model is trained using the prepared dataset. The model l
 
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
 
+## thank you
+
 
