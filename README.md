@@ -46,6 +46,7 @@ The architecture of the WAF is composed of the following components:
 - **HTTP Handling**: Requests
 - **Logging**: Python's logging module
 - **Network Security**: Integration of security best practices and protocols
+- **Web Security**: Implementing security measures to protect against these vulnerabilities. 
 
 ## Installation
 
