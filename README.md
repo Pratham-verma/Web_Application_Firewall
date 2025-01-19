@@ -28,7 +28,6 @@ Web Application Firewalls (WAFs) are critical components for protecting web appl
 - **Proxy Server**: Intercepts incoming HTTP requests and forwards them to the web server if deemed safe.
 - **Machine Learning Model**: Logistic Regression model trained to detect malicious requests.
 - **Real-Time Request Analysis**: Analyzes and classifies requests in real-time.
-- **Logging**: Logs all requests and their classification for auditing and further analysis.
 
 ## Architecture
 
