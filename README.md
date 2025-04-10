@@ -3,7 +3,7 @@
 
 This project is a Web Application Firewall (WAF) designed to protect web applications from malicious requests. By leveraging **Machine Learning** , specifically Logistic Regression, the WAF can distinguish between good (legitimate) and bad (malicious) requests. The solution involves a proxy server that intercepts incoming requests, evaluates them using a trained ML model, and determines whether to allow or block the request based on the prediction.
 
-Project Video : [Link](https://drive.google.com/file/d/113GKyWXV5DsvTHh1K1vkdeq2P_MdfSbk/view?usp=sharing)
+Project Video : [youtube](https://youtu.be/qSO4cmMWiCg)
 
 ## Table of Contents
 
